@@ -4,7 +4,7 @@
   "main": "dist/src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arlan85/githubactions-test.git"
+    "url": "git+https://github.com/arlan85/githubactions-test.git"
 },
   "author": "Arlan Galvez <galvezalonso@gmail.com>",
   "license": "MIT",
